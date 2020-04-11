@@ -1,5 +1,23 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title> Gursha Title Page</title>
-        
+		<title>Gursha Title Page</title>
+		<style type="text/css">
+		body	{
+			font-family:serif;
+			background-color: rgb(66,66,66);}
+		h1	{
+			color: rgb(255,255,0);}
+		h1~p	{
+			color: rgb(255,255,0);
+			font-size:larger;}
+
+		</style>
+	</head>
+	<body>
+		<h1>Gursha- Integrated Marketing and BRand Developing</h1>
+		<p>At Gursha- We aim to develop brands and marketing strategies that are unique and appealing</p>
+		<img src="me.jpg" alt="me" width="250" height="450" />	
+	</body>
+	</html>
+	
